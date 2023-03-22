@@ -7,10 +7,10 @@
 
 ### Installation
 
-1) Add `mprince/route-priority` to `composer.json`.
+1) Add `mprincek18/route-priority` to `composer.json`.
 
    ```
-   composer require mprince/route-priority
+   composer require mprincek18/route-priority
    ```
     
 2)Run `composer update` to pull down the latest version of the package.
