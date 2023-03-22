@@ -1,0 +1,22 @@
+{
+    "name": "mprince2k18/route-priority",
+    "description": "Package to add priority to Laravel 10 routes",
+    "keywords": ["laravel", "route", "priority"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Prince",
+            "email": "mprince2k16@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mprince\\RoutePriority\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
