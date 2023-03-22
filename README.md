@@ -9,7 +9,9 @@
 
 1) Add `mprince/route-priority` to `composer.json`.
 
-    "mprince/route-priority": "dev-master"
+   ```
+   composer require mprince/route-priority
+   ```
     
 2)Run `composer update` to pull down the latest version of the package.
 
